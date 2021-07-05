@@ -1,0 +1,4 @@
+pageObjects\BasePage.class
+pageObjects\RegistrationPage.class
+utils\Utils.class
+pageObjects\MainPage.class
